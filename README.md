@@ -2,10 +2,10 @@ __THIS IS MY OWN VERSION WITH A DARKER BACKGROUND__
 
 These are may changes below, nothing drastic.
 ```
-autocmd ColorScheme * highlight Normal guibg=00000
-autocmd ColorScheme * highlight CursorLineNr guifg=fffff
-autocmd ColorScheme * highlight SignColumn guibg=00000
-autocmd ColorScheme * highlight LineNr guifg=000000 guibg=00000
+Normal guibg=00000
+CursorLineNr guifg=fffff
+SignColumn guibg=00000
+LineNr guifg=000000 guibg=00000
 ```
 
 A dark colorscheme for Vim.
