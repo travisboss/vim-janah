@@ -1,3 +1,6 @@
+__THIS IS MY OWN VERSION WITH A DARKER BACKGROUND__
+
+
 A dark colorscheme for Vim.
 
 - works with 256 color terminals and GUI
@@ -7,7 +10,6 @@ A dark colorscheme for Vim.
 [vim-rfc](https://github.com/mhinz/vim-rfc) |
 [vim-easymotion](https://github.com/easymotion/vim-easymotion)
 
-![Janah in action](https://raw.githubusercontent.com/mhinz/vim-janah/master/janah.png)
 
 __NOTE__: No background color will be set if used in a terminal emulator. If
 the colorscheme doesn't look good with your terminal's default background
