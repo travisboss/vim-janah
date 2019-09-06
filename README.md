@@ -23,6 +23,5 @@ the colorscheme doesn't look good with your terminal's default background
 color, put this in your vimrc:
 
 ```vim
-autocmd ColorScheme janah highlight Normal ctermbg=235
-colorscheme janah
+colorscheme janah-dark
 ```
