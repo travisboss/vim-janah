@@ -1,6 +1,6 @@
 __THIS IS MY OWN VERSION WITH A DARKER BACKGROUND__
 
-These are may changes below, nothing drastic.
+These are my changes below, nothing drastic.
 ```
 Normal guibg=00000
 CursorLineNr guifg=fffff
