@@ -1,5 +1,12 @@
 __THIS IS MY OWN VERSION WITH A DARKER BACKGROUND__
 
+These are may changes below, nothing drastic.
+```
+autocmd ColorScheme * highlight Normal guibg=00000
+autocmd ColorScheme * highlight CursorLineNr guifg=fffff
+autocmd ColorScheme * highlight SignColumn guibg=00000
+autocmd ColorScheme * highlight LineNr guifg=000000 guibg=00000
+```
 
 A dark colorscheme for Vim.
 
@@ -19,6 +26,3 @@ color, put this in your vimrc:
 autocmd ColorScheme janah highlight Normal ctermbg=235
 colorscheme janah
 ```
-
-If you set `'background'` in your vimrc, make sure to do that before setting
-the above, because of a [Vim bug](https://github.com/mhinz/vim-janah/issues/2).
