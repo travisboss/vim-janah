@@ -145,4 +145,4 @@ highlight TermCursorNC ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight link htmlTagN htmlTagName
 
 
-let g:colors_name = 'janah-dark'
+let g:colors_name = 'janah'
