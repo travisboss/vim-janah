@@ -23,5 +23,5 @@ the colorscheme doesn't look good with your terminal's default background
 color, put this in your vimrc:
 
 ```vim
-colorscheme janah-dark
+colorscheme janah
 ```
