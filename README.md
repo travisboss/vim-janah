@@ -1,3 +1,5 @@
+![image](https://github.com/travisboss/vim-janah-dark/blob/master/screenshot.png)
+
 __THIS IS MY OWN VERSION WITH A DARKER BACKGROUND__
 
 These are my changes below, nothing drastic.
