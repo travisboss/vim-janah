@@ -1,8 +1,8 @@
 " vim: et sw=2 sts=2
 
-" Plugin:      https://github.com/mhinz/vim-janah
+" Plugin:      https://github.com/travisboss/vim-janah-dark
 " Description: A 256 colors colorscheme for Vim.
-" Maintainer:  Marco Hinz <http://github.com/mhinz>
+" Maintainer:  Travis Boss <https://github.com/travisboss>
 
 highlight clear
 
